@@ -19,6 +19,7 @@ DeepLeaf is an AI-based system that classifies plant seedlings into 12 different
 * **Total Images**: \~4,717 RGB images
 * **Image Size**: Resized to 70×70 pixels
 * **Classes (12)**:
+* Dataset Link: https://www.kaggle.com/c/plant-seedlings-classification/data
 
   * Black-grass
   * Charlock
