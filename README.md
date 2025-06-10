@@ -131,6 +131,9 @@ python predict.py
 
 Confusion matrix and more results are saved in the `/results` folder.
 
+![image](https://github.com/user-attachments/assets/331c8a4e-0480-42e7-b350-285e14587713)
+
+
 
 ---
 
